@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<BulkCopy>
+  <MajorVersion>9</MajorVersion> 
+  <Connection>
+    <Host>127.0.0.1</Host>
+    <Port>5432</Port>
+    <UserName>northwind</UserName>
+    <UserName>postgres</UserName>
+    <Password>web@1234</Password>
+  </Connection>
+</BulkCopy>
