@@ -1,0 +1,24 @@
+
+x64 files
+
+took the include and lib folders from this zip:
+	postgresql-9.6.3-1-windows-x64-binaries.zip
+which can be found here
+
+"url": "https://get.enterprisedb.com/postgresql/postgresql-9.6.3-1-windows-x64-binaries.zip",
+"hash": "18b23b5811ed94e5653c1dc311d49e2ce8e93b9d45e33f4318d4b744fb758ee3"
+
+
+
+x86 files
+
+took the include and lib folders from this zip:
+	postgresql-9.6.3-1-windows-binaries.zip
+which can be found here
+
+"url": "https://get.enterprisedb.com/postgresql/postgresql-9.6.3-1-windows-binaries.zip",
+"hash": "675e360c78c96e498b3415258791ba2c8e3eb8d157f10b0f8189f20d0749417a"
+
+
+
+
