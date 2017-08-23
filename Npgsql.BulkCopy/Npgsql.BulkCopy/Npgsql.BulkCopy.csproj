@@ -137,6 +137,7 @@
     <Content Include="libpqDLL\9.x\x64\libxslt.dll">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="libpqDLL\9.x\x64\PgCPP.DLL.9.x.dll" />
     <Content Include="libpqDLL\9.x\x64\ssleay32.dll">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
@@ -161,9 +162,7 @@
     <Content Include="libpqDLL\9.x\x86\libxslt.dll">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="libpqDLL\9.x\x86\PgCPP.DLL.9.x.dll">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="libpqDLL\9.x\x86\PgCPP.DLL.9.x.dll" />
     <Content Include="libpqDLL\9.x\x86\ssleay32.dll">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>

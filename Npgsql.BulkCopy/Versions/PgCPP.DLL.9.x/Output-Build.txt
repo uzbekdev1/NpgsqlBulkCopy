@@ -1,0 +1,25 @@
+﻿1>------ Build started: Project: PgCPP.DLL.9.x, Configuration: Debug x64 ------
+1>C:\Program Files (x86)\Microsoft Visual Studio\Preview\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(373,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+1>stdafx.cpp
+1>dllmain.cpp
+1>PgCPP.DLL.9.x.cpp
+1>c:\_code\c#\npgsqlbulkcopy\npgsql.bulkcopy\versions\pgcpp.dll.9.x\pgcpp.dll.9.x.cpp(66): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+1>c:\_code\c#\npgsqlbulkcopy\npgsql.bulkcopy\versions\pgcpp.dll.9.x\pgcpp.dll.9.x.cpp(66): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+1>c:\_code\c#\npgsqlbulkcopy\npgsql.bulkcopy\versions\pgcpp.dll.9.x\pgcpp.dll.9.x.cpp(103): warning C4297: 'openRemoteConn': function assumed not to throw an exception but does
+1>c:\_code\c#\npgsqlbulkcopy\npgsql.bulkcopy\versions\pgcpp.dll.9.x\pgcpp.dll.9.x.cpp(103): note: __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+1>c:\_code\c#\npgsqlbulkcopy\npgsql.bulkcopy\versions\pgcpp.dll.9.x\pgcpp.dll.9.x.cpp(125): warning C4297: 'setColumns': function assumed not to throw an exception but does
+1>c:\_code\c#\npgsqlbulkcopy\npgsql.bulkcopy\versions\pgcpp.dll.9.x\pgcpp.dll.9.x.cpp(125): note: __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+1>c:\_code\c#\npgsqlbulkcopy\npgsql.bulkcopy\versions\pgcpp.dll.9.x\pgcpp.dll.9.x.cpp(135): warning C4297: 'addRow': function assumed not to throw an exception but does
+1>c:\_code\c#\npgsqlbulkcopy\npgsql.bulkcopy\versions\pgcpp.dll.9.x\pgcpp.dll.9.x.cpp(135): note: __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+1>c:\_code\c#\npgsqlbulkcopy\npgsql.bulkcopy\versions\pgcpp.dll.9.x\pgcpp.dll.9.x.cpp(147): warning C4297: 'setTableName': function assumed not to throw an exception but does
+1>c:\_code\c#\npgsqlbulkcopy\npgsql.bulkcopy\versions\pgcpp.dll.9.x\pgcpp.dll.9.x.cpp(147): note: __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+1>c:\_code\c#\npgsqlbulkcopy\npgsql.bulkcopy\versions\pgcpp.dll.9.x\pgcpp.dll.9.x.cpp(156): warning C4297: 'setBatchSize': function assumed not to throw an exception but does
+1>c:\_code\c#\npgsqlbulkcopy\npgsql.bulkcopy\versions\pgcpp.dll.9.x\pgcpp.dll.9.x.cpp(156): note: __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+1>c:\_code\c#\npgsqlbulkcopy\npgsql.bulkcopy\versions\pgcpp.dll.9.x\pgcpp.dll.9.x.cpp(186): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+1>c:\_code\c#\npgsqlbulkcopy\npgsql.bulkcopy\versions\pgcpp.dll.9.x\pgcpp.dll.9.x.cpp(198): warning C4297: 'closeConn': function assumed not to throw an exception but does
+1>c:\_code\c#\npgsqlbulkcopy\npgsql.bulkcopy\versions\pgcpp.dll.9.x\pgcpp.dll.9.x.cpp(198): note: __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+1>   Creating library C:\_CODE\C#\NpgsqlBulkCopy\Npgsql.BulkCopy\Npgsql.BulkCopy\libpqDLL\9.x\x64\PgCPP.DLL.9.x.lib and object C:\_CODE\C#\NpgsqlBulkCopy\Npgsql.BulkCopy\Npgsql.BulkCopy\libpqDLL\9.x\x64\PgCPP.DLL.9.x.exp
+1>PgCPP.DLL.9.x.vcxproj -> C:\_CODE\C#\NpgsqlBulkCopy\Npgsql.BulkCopy\Npgsql.BulkCopy\libpqDLL\9.x\x64\PgCPP.DLL.9.x.dll
+1>PgCPP.DLL.9.x.vcxproj -> C:\_CODE\C#\NpgsqlBulkCopy\Npgsql.BulkCopy\Npgsql.BulkCopy\libpqDLL\9.x\x64\PgCPP.DLL.9.x.pdb (Partial PDB)
+1>Done building project "PgCPP.DLL.9.x.vcxproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

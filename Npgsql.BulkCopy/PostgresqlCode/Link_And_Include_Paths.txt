@@ -1,0 +1,14 @@
+
+
+$(SolutionDir)PostgresqlCode\Version9\x86\include
+$(SolutionDir)PostgresqlCode\Version9\x86\lib
+
+$(SolutionDir)PostgresqlCode\Version9\x64\include
+$(SolutionDir)PostgresqlCode\Version9\x64\lib
+
+
+$(SolutionDir)PostgresqlCode\Version8\x86\include
+$(SolutionDir)PostgresqlCode\Version8\x86\lib
+
+$(SolutionDir)PostgresqlCode\Version8\x64\include
+$(SolutionDir)PostgresqlCode\Version8\x64\lib
