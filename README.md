@@ -7,7 +7,7 @@ Npgsql Bulk Copy
 I simple demostration:
 
 Scripts:
-
+```
 -- Database: northwind
 
 -- DROP DATABASE northwind;
@@ -52,12 +52,12 @@ WITH (
 ALTER TABLE employees
   OWNER TO postgres;
 
-
+```
 
 Config file:
 
 BulkCopyConfig.xml
-
+```
 <BulkCopy>
   <MajorVersion>9</MajorVersion> 
   <Connection>
@@ -68,12 +68,12 @@ BulkCopyConfig.xml
     <Password>web@1234</Password>
   </Connection>
 </BulkCopy>
-
+```
 
 Source:
 
 
-        static unsafe void Main(string[] args)
+   ```     static unsafe void Main(string[] args)
         {
             var model = BulkCopyFactory.GetModel();
             var columnData = String.Join(",", new[]
@@ -155,7 +155,7 @@ Source:
             Console.WriteLine("Bulk copy successfully");
             Console.ReadKey();
         }
-        
+        ```
         
 Performance:
 
